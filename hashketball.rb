@@ -46,7 +46,7 @@ def game_hash
           assists: 6,
           steals: 3,
           blocks: 8,
-          slam_dunks: 5,          
+          slam_dunks: 5,
         },
         {
           player_name: "Jerry Terry",
